@@ -25,6 +25,3 @@ _also italics?_
 
 --- what
 
-[GitHub Hello World link] (https://docs.github.com/en/get-started/quickstart/hello-world)
-
-
