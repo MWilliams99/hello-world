@@ -1,2 +1,2 @@
 # hello-world
-A basic 'Hello World' project to understand Github following the Get started tutorial.
+A basic 'Hello World' project following the 'Get started' tutorial to understand Github.
